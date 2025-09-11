@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHB2ZzNuNDB1Z2JsOThtcmJkbTk2aDU5djJ0cjc2MXJmcmZ1Y2huMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/6xpBQeimnN5QKT29oQ/giphy.gif"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hello, my name's Pedro Saraiva, I am a software developer from Brazil and I love learning new stuff!<br><br>- 🔭 Analysis and System Development student<br>- 📚 I'm currently learning C++ and Python<br>- ⚡ In my free time I like to design websites</p>
+<p align="left">Hello, my name's Pedro Saraiva, I am a software developer from Brazil and I love learning new stuff! <br><br>"My goal as a software developer is to transform complex ideas into functional software solutions."<br><br>- 📙I am a Analysis and System Development student<br>- 📚 I'm currently learning C++ and Python, and how to use them to make softwares<br>- ⚡ In my free time I like to take some time off just to relax</p>
 
 ###
 
@@ -50,11 +50,41 @@
 
 ###
 
+<h2 align="left">Web Development</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h2 align="left">Frameworks/Libraries</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
 <h2 align="left">Tools</h2>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -68,7 +98,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats</h3>
+<h3 align="center">🔥   My Stats 🔥</h3>
 
 ###
 
