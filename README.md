@@ -23,11 +23,11 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
-<p align="left">Hello, my name's Pedro Saraiva, I am a software developer from Brazil and I love learning new stuff!<br><br>"My goal as a software developer is to transform complex ideas into functional software solutions."<br><br>• 📙I am a Analysis and System Development student<br>• 📚 I'm currently learning C++ and Python, and how to use them to make softwares<br>• ⚡ In my free time I like to take some time off just to relax</p>
+<p align="left">Hello, my name's Pedro Saraiva, I am a software developer from Brazil and I love learning new stuff!<br><br>"My goal as a software developer is to transform complex ideas into functional software solutions."<br><br>• I am a Analysis and System Development student<br>•  I'm currently learning C++ and Python, and how to use them to make softwares<br>•  In my free time I like to take some time off just to relax</p>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">💻 Languages</h3>
+<h3 align="left"> Languages</h3>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="left">🛠️ Tools</h3>
+<h3 align="left"> Tools</h3>
 
 ###
 
@@ -75,7 +75,7 @@
 
 ###
 
-<h3 align="left">📚 Frameworks/Libraries</h3>
+<h3 align="left"> Frameworks/Libraries</h3>
 
 ###
 
